@@ -1,0 +1,6 @@
+dependencies:
+  idf: '>=5.0'
+  esp_lcd_touch: ">=1.0.4"
+description: esp_lcd_touch driver for resistive screens without touch controller.
+url: https://github.com/dvosully/esp_lcd_touch_res4w
+version: 0.1.0
