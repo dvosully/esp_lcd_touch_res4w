@@ -9,7 +9,7 @@ This package can be added to your project in two ways:
 1. Using [Espressif's component service](https://components.espressif.com/) as:
 ```
 dependencies:
-  dvosully/esp_lcd_touch_res4w: "~1.0.0"
+  dvosully/esp_lcd_touch_res4w: "~0.1.0"
 ```
 
 2. Using the git repository directly:
